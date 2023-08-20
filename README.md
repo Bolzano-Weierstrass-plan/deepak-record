@@ -1,4 +1,4 @@
-# Deepak' Record
+# Deepak's Record
 ## This page tracks my progress of following the Bolzano-Weistrass plan propsed [here](https://github.com/Bolzano-Weierstrass-plan)
 
 | No | Status | Date | Notes |
