@@ -1,6 +1,10 @@
 # Deepak's Record
 This page tracks my progress of following the Bolzano-Weistrass plan propsed [here](https://github.com/Bolzano-Weierstrass-plan)
 
+| :warning: IMPORTANT          |
+|:---------------------------|
+| The updates have been moveed to [my personal repo](https://github.com/deepakkrish212/plan-always) |
+
 | No | Status | Date | Notes |
 | -- | ------ | ---------- | ----- |
 |10.| &#x2611; | 08/29/2023 | Today was my burnout day and I took some time off. Moving on forward, I am going to work very hard and very efficient everyday and take a burn out day break whenever I see fit. The aim here is to improve my resistence to burn out days and reduce my recovery time eventually. I watched a movie called **The Big Short** which is a movie about investors who made profit off of the global economic crisis of 2008. After watching that movie, I am certain of one thing: One **big WIN** can nullify a million failures. Therefore, from now on, I am going to chase that **big WIN.** The plan is to keep chasing big wins after big wins as you keep achieving them. GAME ON AND FINGERS CROSSED 🤞
